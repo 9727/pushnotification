@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "686366385116",
+    "project_id": "psuhon-79c33",
+    "storage_bucket": "psuhon-79c33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686366385116:android:27a1ff12ce14b72eb4e519",
+        "android_client_info": {
+          "package_name": "com.pushon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686366385116-2trokfe0173rut4u3p1acpm43vh9dd7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pushon",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "686366385116-ac6mdnn4jqdetu4o0l2i1jq4i61le2k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgoO7pUyPn0ofruyCSGKh0sqR1NApghXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686366385116-ac6mdnn4jqdetu4o0l2i1jq4i61le2k8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
